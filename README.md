@@ -20,7 +20,6 @@ ROBODROID
   <img width="600" alt="Robodroid Prototype" src="https://github.com/user-attachments/assets/7fbf0b86-b15a-4936-8327-9096da136ad4" />
 </p>
 
-
 ## System Overview  
 
 ### Sensors  
